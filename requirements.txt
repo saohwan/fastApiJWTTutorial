@@ -1,2 +1,7 @@
-sqlalchemy
+sqlalchemy~=2.0.28
 bcrypt==4.0.1
+
+fastapi~=0.110.0
+pydantic~=2.6.3
+starlette~=0.36.3
+passlib~=1.7.4
